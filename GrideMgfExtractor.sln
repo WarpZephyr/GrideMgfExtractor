@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrideMgfExtractor", "GrideMgfExtractor\GrideMgfExtractor.csproj", "{2459D574-F401-4148-B269-C617B55A6D2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoulsFormats", "..\SoulsFormats\SoulsFormats\SoulsFormats.csproj", "{44043EAD-5F2B-4679-855E-A5E462D4C9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2459D574-F401-4148-B269-C617B55A6D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2459D574-F401-4148-B269-C617B55A6D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2459D574-F401-4148-B269-C617B55A6D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2459D574-F401-4148-B269-C617B55A6D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44043EAD-5F2B-4679-855E-A5E462D4C9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44043EAD-5F2B-4679-855E-A5E462D4C9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44043EAD-5F2B-4679-855E-A5E462D4C9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44043EAD-5F2B-4679-855E-A5E462D4C9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C30511-1F4F-48D8-BFEB-083254DC6335}
+	EndGlobalSection
+EndGlobal
