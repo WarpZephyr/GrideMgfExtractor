@@ -1,6 +1,4 @@
 ﻿using SoulsFormats.Dreamcast;
-using System.IO;
-using System.Runtime.CompilerServices;
 
 namespace GrideMgfExtractor
 {
