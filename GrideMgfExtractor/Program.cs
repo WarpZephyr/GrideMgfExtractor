@@ -116,6 +116,7 @@ namespace GrideMgfExtractor
 
             var mgf = new MGF();
             mgf.Files = new List<MGF.File>();
+            mgf.Unk04 = 1;
 
             var names = new List<string>();
             string[] paths = Directory.GetFiles(dir, "*", SearchOption.AllDirectories);
